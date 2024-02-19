@@ -15,6 +15,8 @@ je suis prêt à apporter ma contribution.
 
 Pour me contacter, le moyen le plus rapide est via LinkedIn havrezChristopher ou par email à havrez.christopher@outlook.com 
 Vous pouvez aussi m'envoyer un message codé via drone si vous êtes dans le futur !
+
+
 (\(\    
 (-.-)   
 o_(")(")
