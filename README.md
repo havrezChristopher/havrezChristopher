@@ -1,5 +1,5 @@
 
-👋 Salut, je suis @havrezChristopher
+👋 Salut, C'est Chris 
 
 Je suis passionné par l'intelligence artificielle, 
 ainsi que par les mondes immersifs de la réalité virtuelle (VR) et de la réalité augmentée (AR). 
