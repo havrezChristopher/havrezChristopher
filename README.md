@@ -11,7 +11,7 @@ ainsi que par les mondes immersifs de la réalité virtuelle (VR) et de la réal
     |`-.._____..-'|
     |             ;--.
     |            (__  \           Actuellement, je suis en formation pour devenir développeur full stack web
-    |             | )  )          me spécialisant dans l'utilisation d'AngularJS et TypeScript.
+    |             | )  )          me spécialisant dans l'utilisation d'AngularJS et TypeScript. 
     |             |/  /           Je crois fermement que la maîtrise du front-end et du back-end
     |             /  /            est essentielle pour concevoir des applications web complètes et performantes.
     |            (  /             Je cherche à collaborer sur des projets qui poussent les limites de l'IA et de la VR/AR.
